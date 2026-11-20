@@ -6,12 +6,15 @@
 <img src="assets/banner.ru.png" width="100%" alt="Михаил Бурлаков — Делаю NOWA, биоинспирированного ИИ-агента, который спит, чувствует и наследует геном">
 <br/>
 <a href="https://github.com/burlakovmb">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=true&center=true&width=720&height=90&lines=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%20%D0%91%D1%83%D1%80%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%3B%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%20%D0%9F%D0%9E%20%E2%80%94%20%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%20NOWA%3B%D0%B1%D0%B8%D0%BE%D0%B8%D0%BD%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%98%D0%98-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%82%2C%20%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82%20%D0%B8%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D0%B5%D1%82%20%D0%B3%D0%B5%D0%BD%D0%BE%D0%BC" alt="Михаил Бурлаков, архитектор ПО — делаю NOWA" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=true&center=true&width=720&height=120&lines=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%20%D0%91%D1%83%D1%80%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%3B%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%20%D0%9F%D0%9E%20%E2%80%94%20%D0%B4%D0%B5%D0%BB%D0%B0%D1%8E%20NOWA%3B%D0%B1%D0%B8%D0%BE%D0%B8%D0%BD%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%98%D0%98-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%82%2C%20%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82%20%D0%B8%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D0%B5%D1%82%20%D0%B3%D0%B5%D0%BD%D0%BE%D0%BC%3B%D0%B8%20%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%B5%D1%89%D0%B8" alt="Михаил Бурлаков, архитектор ПО — делаю NOWA" />
 </a>
 <br/>
 
 <a href="https://habr.com/ru/articles/1095790/">
     <img src="https://img.shields.io/badge/Habr-статья-447BBA?style=flat-square" alt="Хабр">
+</a>
+<a href="https://www.alphaxiv.org/abs/2611.nowa-reward-learning-evolutionary-growth">
+    <img src="https://img.shields.io/badge/alphaXiv-paper-b31b1b?style=flat-square" alt="статья на alphaXiv">
 </a>
 <a href="https://x.com/mburlakov_web3">
     <img src="https://img.shields.io/badge/X-mburlakov__web3-black?style=flat-square&logo=x&logoColor=white" alt="X">
@@ -43,6 +46,8 @@
 
 * ✍️ Статья на Хабре: [Сутки из жизни G3A1SF: как я учу агента без backprop — днём он живёт, ночью учится](https://habr.com/ru/articles/1095790/).
 
+* 📄 Статья: [NOWA: Neural Networks with Reward-Based Learning and Evolutionary Architecture Growth](https://www.alphaxiv.org/abs/2611.nowa-reward-learning-evolutionary-growth) (alphaXiv).
+
 <div align="center">
 
 <h3>🧠 NOWA</h3>
@@ -73,6 +78,7 @@
     <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/license-PolyForm%20Strict%201.0.0-1f6feb?style=flat-square" alt="PolyForm Strict 1.0.0">
     <a href="https://habr.com/ru/articles/1095790/"><img src="https://img.shields.io/badge/Habr-статья-447BBA?style=flat-square" alt="Хабр"></a>
+    <a href="https://www.alphaxiv.org/abs/2611.nowa-reward-learning-evolutionary-growth"><img src="https://img.shields.io/badge/alphaXiv-paper-b31b1b?style=flat-square" alt="статья на alphaXiv"></a>
   </td>
 </tr>
 </table>

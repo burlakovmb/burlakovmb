@@ -6,12 +6,15 @@
 <img src="assets/banner.png" width="100%" alt="Mikhail Burlakov — Building NOWA, a bio-inspired AI agent that sleeps, feels and inherits a genome">
 <br/>
 <a href="https://github.com/burlakovmb">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=true&center=true&width=680&height=90&lines=Mikhail%20Burlakov%3BSoftware%20Architect%20%E2%80%94%20building%20NOWA%3Ba%20bio-inspired%20AI%20agent%20that%20sleeps%2C%20feels%20and%20inherits%20a%20genome" alt="Mikhail Burlakov, Software Architect — building NOWA" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=true&center=true&width=680&height=120&lines=Mikhail%20Burlakov%3BSoftware%20Architect%20%E2%80%94%20building%20NOWA%3Ba%20bio-inspired%20AI%20agent%20that%20sleeps%2C%20feels%20and%20inherits%20a%20genome%3Band%20other%20interesting%20things" alt="Mikhail Burlakov, Software Architect — building NOWA" />
 </a>
 <br/>
 
 <a href="https://habr.com/ru/articles/1095790/">
     <img src="https://img.shields.io/badge/Habr-article-447BBA?style=flat-square" alt="Habr">
+</a>
+<a href="https://www.alphaxiv.org/abs/2611.nowa-reward-learning-evolutionary-growth">
+    <img src="https://img.shields.io/badge/alphaXiv-paper-b31b1b?style=flat-square" alt="alphaXiv paper">
 </a>
 <a href="https://x.com/mburlakov_web3">
     <img src="https://img.shields.io/badge/X-mburlakov__web3-black?style=flat-square&logo=x&logoColor=white" alt="X">
@@ -43,6 +46,8 @@
 
 * ✍️ Article (RU): [Сутки из жизни G3A1SF: как я учу агента без backprop — днём он живёт, ночью учится](https://habr.com/ru/articles/1095790/).
 
+* 📄 Paper: [NOWA: Neural Networks with Reward-Based Learning and Evolutionary Architecture Growth](https://www.alphaxiv.org/abs/2611.nowa-reward-learning-evolutionary-growth) (alphaXiv).
+
 <div align="center">
 
 <h3>🧠 NOWA</h3>
@@ -73,6 +78,7 @@
     <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" alt="Python">
     <img src="https://img.shields.io/badge/license-PolyForm%20Strict%201.0.0-1f6feb?style=flat-square" alt="PolyForm Strict 1.0.0">
     <a href="https://habr.com/ru/articles/1095790/"><img src="https://img.shields.io/badge/Habr-article-447BBA?style=flat-square" alt="Habr"></a>
+    <a href="https://www.alphaxiv.org/abs/2611.nowa-reward-learning-evolutionary-growth"><img src="https://img.shields.io/badge/alphaXiv-paper-b31b1b?style=flat-square" alt="alphaXiv paper"></a>
   </td>
 </tr>
 </table>
